@@ -1,3 +1,4 @@
 file moi 
 edit:Tam anh
 sua file lan 2
+sua file lan 3 from minh
